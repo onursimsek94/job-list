@@ -1,0 +1,20 @@
+@import "variable";
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600&display=swap&subset=latin-ext');
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  font-family: $font-family-sans-serif !important;
+  font-size: $font-size-small;
+  font-weight: $font-weight-normal;
+  color: $kn-black;
+
+  .main-view-container {
+    width: 900px;
+    height: 500px;
+    margin: 100px auto auto auto;
+  }
+}

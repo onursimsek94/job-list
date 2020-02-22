@@ -1,0 +1,55 @@
+@import "../assets/style/variable";
+
+.job-detail-view {
+  .header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: $kn-light-gray;
+
+    .left-side {
+      :first-child {
+        font-size: $font-size-large;
+        font-weight: $font-weight-bolder;
+      }
+
+      :nth-child(2) {
+        font-size: $font-size-small;
+      }
+
+      :last-child {
+        font-size: $font-size-extra-small;
+      }
+    }
+
+    .el-button {
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+      left: -70px;
+      color: $kn-white;
+      background-color: $kn-purple;
+    }
+  }
+
+  .title {
+    font-size: $font-size-large;
+    font-weight: $font-weight-bold;
+    color: $kn-purple;
+  }
+
+  .subtitle {
+    margin: 30px 0;
+    font-size: $font-size-medium;
+    font-weight: $font-weight-bold;
+    text-decoration: underline;
+  }
+
+  .navigation-button {
+    margin-top: 30px;
+    width: 110px;
+    float: right;
+    color: $kn-white;
+    background-color: $kn-dark-gray;
+  }
+}

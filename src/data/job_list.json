@@ -1,0 +1,87 @@
+{
+  "version": "1.0",
+  "statusCode": 200,
+  "result": {
+    "items": [
+      {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Test Engineer",
+        "companyName": "Travelbuild",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://pazarlamasyon.com/wp-content/uploads/2014/02/mzl.fipsvwby.png",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İstanbul",
+        "townName": "Sarıyer"
+      },
+      {
+        "jobId": "C72CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Frontend Developer",
+        "companyName": "Kariyer.net",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://pazarlamasyon.com/wp-content/uploads/2014/02/mzl.fipsvwby.png",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İstanbul",
+        "townName": "Ümraniye"
+      },
+      {
+        "jobId": "C73CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Backend Developer",
+        "companyName": "Hepsiburada",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://pazarlamasyon.com/wp-content/uploads/2014/02/mzl.fipsvwby.png",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İstanbul",
+        "townName": "Şişli"
+      },
+      {
+        "jobId": "C74CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Frontend Developer",
+        "companyName": "Trendyol",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://pazarlamasyon.com/wp-content/uploads/2014/02/mzl.fipsvwby.png",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İstanbul",
+        "townName": "Sarıyer"
+      },
+      {
+        "jobId": "C75CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "DevOps",
+        "companyName": "Travelbuild",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://pazarlamasyon.com/wp-content/uploads/2014/02/mzl.fipsvwby.png",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İstanbul",
+        "townName": "Sarıyer"
+      },
+      {
+        "jobId": "C76CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Frontend Developer",
+        "companyName": "Detaysoft",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://pazarlamasyon.com/wp-content/uploads/2014/02/mzl.fipsvwby.png",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "Sivas",
+        "townName": "Merkez"
+      }
+    ],
+    "total": 1
+  }
+}

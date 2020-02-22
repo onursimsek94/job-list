@@ -1,0 +1,41 @@
+@import "../assets/style/variable";
+
+.search-component {
+  .el-input {
+    height: 50px;
+
+    &__inner {
+      height: 50px;
+      color: $kn-black;
+    }
+
+    .el-input-group {
+      &__append {
+        border: none;
+
+        .el-button {
+          width: 100px;
+          height: 50px;
+          border-radius: 2px;
+          color: $kn-white !important;
+          font-size: $font-size-large !important;
+          background-color: $kn-dark-gray !important;
+        }
+      }
+
+      &__prepend {
+        width: 200px;
+        border: none;
+
+        .el-select {
+          width: 240px;
+          height: 48px;
+          border: 1px solid #DCDFE6;
+          border-right: none;
+          color: $kn-black;
+          background-color: $kn-white;
+        }
+      }
+    }
+  }
+}

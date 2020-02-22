@@ -1,4 +1,4 @@
-# kariyer-net-case
+# job-list kariyer-net-case
 
 ## Project setup
 ```
